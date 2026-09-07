@@ -11,7 +11,7 @@ The dashboard allows users to explore the data using department-wise and year-wi
 
 ## 🎥 Dashboard Demo
 
-[![Watch Dashboard Demo](Dashboard.png)](dashboard_demo.mp4)
+[![Watch Dashboard Demo](Dashboard_image.png)](Dashboard_video.mp4)
 
 **Click the dashboard image above to open the demo video.**
 ## 🔍 Key Features
