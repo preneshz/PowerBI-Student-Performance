@@ -9,14 +9,11 @@ This project is an interactive Power BI dashboard created using an Anna Universi
 
 The dashboard allows users to explore the data using department-wise and year-wise filters.
 
-## 📷 Dashboard Preview
-
-![Dashboard](Dashboard.png)
-
 ## 🎥 Dashboard Demo
 
-[▶️ View Dashboard Demo](dashboard_demo.mp4)
+[![Watch Dashboard Demo](Dashboard.png)](dashboard_demo.mp4)
 
+**Click the dashboard image above to open the demo video.**
 ## 🔍 Key Features
 
 - Total student count
